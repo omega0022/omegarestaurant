@@ -34,3 +34,21 @@ ul li{
 ul li a:hover{
     color:cadetblue;
 }
+.slidder{
+    width: 100%;
+    position:relative;
+    height:700px;
+    overflow:hidden;
+    
+}
+.image img{
+    width: 100%;
+}
+.overlay{
+    position:absolute;
+    width:100%;
+    height:100%;
+    top:0; 
+    left:0;
+    
+}
