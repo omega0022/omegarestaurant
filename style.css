@@ -12,6 +12,7 @@ nav{
     height: 80px;
     line-height: 80px;
     display:flex;
+    padding: 10px;
     justify-content: space-between;
 }
 .logo a{
